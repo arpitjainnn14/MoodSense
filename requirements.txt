@@ -1,0 +1,10 @@
+opencv-python==4.8.1.78
+numpy==1.24.3
+tensorflow==2.13.0
+keras==2.13.1
+pillow==10.0.0
+matplotlib==3.7.2
+pandas==2.0.3
+PyQt5==5.15.9
+deepface==0.0.79
+scipy==1.11.2 
