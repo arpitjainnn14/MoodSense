@@ -53,7 +53,7 @@ A powerful Python-based application that performs real-time facial emotion detec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MoodSense.git
+   git clone https://github.com/arpitjainnn14/MoodSense.git
    cd MoodSense
    ```
 2. Create a virtual environment (recommended):
